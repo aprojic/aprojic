@@ -25,6 +25,8 @@ $ history | tail -3
 
 I'm Ante. At [Daytona](https://www.daytona.io), AI agents run the code they generate inside isolated sandboxes, and my job is making sure that isolation holds. Before that I spent nine years at Hrvatski Telekom running the systems, after nearly six as CISO for a regulated bank. I also teach cloud computing at Aspira University of Applied Sciences in Split.
 
+**Also built:** I designed and built the [events calendar for ajme.hr](https://ajme.hr/kalendar/), a lifestyle portal covering Split and Dalmatia. It gives readers a daily reason to come back, around 11–20 events a day with a weekly pick, and gives the portal a sponsored-listing format for partners, clearly labelled as such. Under the hood it's a custom WordPress plugin with today, tomorrow and weekend views, a month grid, category filters and an event submission form. Pages are served from cache in about 100 ms instead of 0.7–1.6 s, and each event carries Schema.org data for search. I've run the portal's technical side since April 2026.
+
 **Teaching material** for my courses at Aspira:
 - [Cloud-Computing](https://github.com/aprojic/Cloud-Computing): lab environment for the Cloud IT Systems course
 - [Information-System-Security](https://github.com/aprojic/Information-System-Security): hands-on offensive and defensive security labs
