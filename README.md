@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ante-projic"><img src="https://img.shields.io/badge/LinkedIn-0E1116?style=for-the-badge&logo=linkedin&logoColor=3DF5A7" alt="LinkedIn"></a>
-  <a href="https://orcid.org/0009-0009-1673-7270"><img src="https://img.shields.io/badge/ORCID-0E1116?style=for-the-badge&logo=orcid&logoColor=3DF5A7" alt="ORCID"></a>
-  <a href="https://scholar.google.com/citations?user=PCL06PIAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-0E1116?style=for-the-badge&logo=googlescholar&logoColor=3DF5A7" alt="Google Scholar"></a>
-  <a href="https://www.croris.hr/osobe/profil/41396"><img src="https://img.shields.io/badge/CroRIS-0E1116?style=for-the-badge&logoColor=3DF5A7" alt="CroRIS"></a>
+  <a href="https://www.linkedin.com/in/ante-projic"><img src="https://img.shields.io/badge/LinkedIn-0E1116?style=for-the-badge&logo=linkedin&logoColor=F2B705" alt="LinkedIn"></a>
+  <a href="https://orcid.org/0009-0009-1673-7270"><img src="https://img.shields.io/badge/ORCID-0E1116?style=for-the-badge&logo=orcid&logoColor=F2B705" alt="ORCID"></a>
+  <a href="https://scholar.google.com/citations?user=PCL06PIAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-0E1116?style=for-the-badge&logo=googlescholar&logoColor=F2B705" alt="Google Scholar"></a>
+  <a href="https://www.croris.hr/osobe/profil/41396"><img src="https://img.shields.io/badge/CroRIS-0E1116?style=for-the-badge&logoColor=F2B705" alt="CroRIS"></a>
 </p>
 
 ```console
