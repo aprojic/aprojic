@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ante-projic"><img src="https://img.shields.io/badge/LinkedIn-0E1116?style=for-the-badge&logo=linkedin&logoColor=F2B705" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ante-projic"><img src="https://img.shields.io/badge/LinkedIn-0E1116?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0iI0YyQjcwNSIvPjxyZWN0IHg9IjYiIHk9IjEwIiB3aWR0aD0iMyIgaGVpZ2h0PSI4IiBmaWxsPSIjMEUxMTE2Ii8%2BPGNpcmNsZSBjeD0iNy41IiBjeT0iNi45IiByPSIxLjciIGZpbGw9IiMwRTExMTYiLz48cGF0aCBkPSJNMTEgMTBoMi44djEuM2MuNS0uOSAxLjYtMS41IDIuOS0xLjUgMi4yIDAgMy4zIDEuMyAzLjMgMy44VjE4aC0zdi00YzAtMS4xLS40LTEuNy0xLjMtMS43LTEgMC0xLjcuNy0xLjcgMS45VjE4aC0zeiIgZmlsbD0iIzBFMTExNiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
   <a href="https://orcid.org/0009-0009-1673-7270"><img src="https://img.shields.io/badge/ORCID-0E1116?style=for-the-badge&logo=orcid&logoColor=F2B705" alt="ORCID"></a>
   <a href="https://scholar.google.com/citations?user=PCL06PIAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-0E1116?style=for-the-badge&logo=googlescholar&logoColor=F2B705" alt="Google Scholar"></a>
-  <a href="https://www.croris.hr/osobe/profil/41396"><img src="https://img.shields.io/badge/CroRIS-0E1116?style=for-the-badge&logoColor=F2B705" alt="CroRIS"></a>
+  <a href="https://www.croris.hr/osobe/profil/41396"><img src="https://img.shields.io/badge/CroRIS-0E1116?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTUgMmg5bDUgNXYxNUg1eiIgZmlsbD0iI0YyQjcwNSIvPjxwYXRoIGQ9Ik0xNCAydjVoNSIgZmlsbD0iI0M5OTYwMCIvPjxyZWN0IHg9IjgiIHk9IjExIiB3aWR0aD0iOCIgaGVpZ2h0PSIxLjgiIGZpbGw9IiMwRTExMTYiLz48cmVjdCB4PSI4IiB5PSIxNC41IiB3aWR0aD0iOCIgaGVpZ2h0PSIxLjgiIGZpbGw9IiMwRTExMTYiLz48cmVjdCB4PSI4IiB5PSIxOCIgd2lkdGg9IjUiIGhlaWdodD0iMS44IiBmaWxsPSIjMEUxMTE2Ii8%2BPC9zdmc%2B" alt="CroRIS"></a>
 </p>
 
 ```console
