@@ -25,4 +25,4 @@ $ history | tail -3
 
 I'm Ante. At [Daytona](https://www.daytona.io), AI agents run the code they generate inside isolated sandboxes, and my job is making sure that isolation holds. Before that I spent nine years at Hrvatski Telekom running the systems, after nearly six as CISO for a regulated bank. I also teach cloud computing at Aspira University of Applied Sciences in Split.
 
-**Teaching material:** [ITSuO-labs](https://github.com/aprojic/ITSuO-labs), lab environment for the cloud IT systems course at Aspira.
+**Teaching material:** [Cloud-Computing](https://github.com/aprojic/Cloud-Computing), hands-on cloud labs (Azure, Codespaces, Docker, AI) for the cloud computing course at Aspira.
